@@ -1,5 +1,12 @@
+:root {
+  --font-primary: "Inter", sans-serif;
+  --font-secondary: "Cardo", sans-serif;
+
+  --color-primary: #27a776;
+}
+
 .App {
-  text-align: center;
+  background-color: black;
 }
 
 .App-logo {
